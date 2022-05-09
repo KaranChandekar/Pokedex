@@ -36,3 +36,11 @@ h1 {
   padding: 20px;
   text-align: center;
 }
+
+.pokemon .img-container {
+  background-color: rgba(255, 255, 255, 0.6);
+  border-radius: 50%;
+  width: 120px;
+  height: 120px;
+  text-align: center;
+}
