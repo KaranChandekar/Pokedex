@@ -27,3 +27,12 @@ h1 {
   margin: 0 auto;
   max-width: 1200px;
 }
+
+.pokemon {
+  background-color: #eee;
+  border-radius: 10px;
+  box-shadow: 0 3px 15px rgba(100, 100, 100, 0.5);
+  margin: 10px;
+  padding: 20px;
+  text-align: center;
+}
