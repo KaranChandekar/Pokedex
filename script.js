@@ -60,3 +60,5 @@ const createPokemonCard = (pokemon) => {
 
   poke_container.appendChild(pokemonEl);
 };
+
+fetchPokemons();
